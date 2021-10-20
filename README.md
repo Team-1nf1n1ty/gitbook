@@ -1,18 +1,7 @@
 ---
-description: echo "Hello World"
+description: Hello world
 ---
 
 # Hello World
 
-```python
-print("Hello World")
-```
-
-```cpp
-std::cout << "Hello World";
-```
-
-```javascript
-console.info("Hello World");
-```
-
+Hello world
